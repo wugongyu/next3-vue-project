@@ -1,0 +1,4 @@
+.yarn
+.nuxt
+dist
+node_modules
