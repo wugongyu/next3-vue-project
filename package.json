@@ -12,6 +12,8 @@
     "lint": "eslint --fix"
   },
   "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
     "@typescript-eslint/eslint-plugin": "^6.15.0",
